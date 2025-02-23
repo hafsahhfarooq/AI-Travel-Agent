@@ -10,3 +10,8 @@ sentence-transformers
 openai
 googlemaps
 python-dotenv
+serpapi
+aiohttp
+langchain
+torch
+langchain-agents
