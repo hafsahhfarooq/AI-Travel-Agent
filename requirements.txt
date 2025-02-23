@@ -14,4 +14,3 @@ serpapi
 aiohttp
 langchain
 torch
-langchain-agents
