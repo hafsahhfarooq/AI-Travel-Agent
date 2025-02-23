@@ -3,7 +3,7 @@ import requests
 from datetime import datetime, timedelta
 
 # Base API URL (Change if hosted remotely)
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://ai-travel-agent-0zxc.streamlit.app/"
 
 # Streamlit App
 st.set_page_config(page_title="AI Travel Agent", layout="wide")
