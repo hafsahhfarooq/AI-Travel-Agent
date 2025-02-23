@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+requests
+streamlit
+pydantic
+faiss-cpu
+huggingface_hub
+transformers
+sentence-transformers
+openai
+googlemaps
+python-dotenv
